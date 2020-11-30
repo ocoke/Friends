@@ -10,5 +10,29 @@
     "intro": "站点状态监控",
     "link":  "/status/",
     "image": "/status/favicon.ico"
-  }
+  },
+  {
+    "title": "凡尘纪",
+    "intro": "念念不忘，必有回响。",
+    "link":  "https://hesifan.top/",
+    "image": "https://hesifan.top/medias/avatar.jpg"
+  },
+  {
+    "title": "NiKoJJ's Blog",
+    "intro": "风雨里，要像个大人；天晴时，要像个孩子。",
+    "link":  "http://www.nikojj.top/",
+    "image": "https://oss.tool.lu/cache/202011/25/225822s9zsz3b38od9ep73.png.icon.png"
+  },
+  {
+    "title": "张舒涵的博客",
+    "intro": "爱前端，爱生活。",
+    "link":  "https://imzsh.com/",
+    "image": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/4377e110-c9f6-4889-a4b2-bbc52bbbbb37.png"
+  },
+  {
+    "title": "Fmkli 的憨憨窝",
+    "intro": "憨到不能再憨。",
+    "link":  "http://fmkli.js.org/",
+    "image": "https://s1.ax1x.com/2020/08/10/aqsA9f.png"
+  },
 ]
