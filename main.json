@@ -1,0 +1,14 @@
+[
+  {
+    "title": "申请友链",
+    "intro": "友链还有空位！赶快申请！",
+    "link":  "https://github.com/oCoke/Friends",
+    "image": "https://cdn.jsdelivr.net/gh/MyBlog-GitHub/image-upload@main/uPic/1GsaSI.png"
+  },
+  {
+    "title": "站点监控",
+    "intro": "站点状态监控",
+    "link":  "/status/",
+    "image": "/status/favicon.ico"
+  }
+]
