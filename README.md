@@ -8,7 +8,7 @@ YFun 的左邻右舍。
 
 ```
 站点名称：YFun's Blog
-站点 URL：https://hifun.now.sh/
+站点 URL：https://www.yfun.top/
 站点简介：探寻一切有趣的事物！
 站点 Logo：https://cdn.jsdelivr.net/gh/MyBlog-GitHub/image-upload@main/uPic/1GsaSI.png
 ```
@@ -35,4 +35,4 @@ YFun 的左邻右舍。
 
 ### 友链
 
-请查看：[https://hifun.now.sh/links/](https://hifun.now.sh/links/)
+请查看：[https://www.yfun.top/links/](https://www.yfun.top/links/)
