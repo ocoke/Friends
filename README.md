@@ -41,7 +41,9 @@ YFun 的左邻右舍。
 
 ### 方法二
 
-在讨论帖（ [#9](https://github.com/oCoke/Friends/discussions/9) ）中按照提示留下你的相关友链信息。
+在讨论帖（ [#9](https://github.com/oCoke/Friends/discussions/9) ）中留下你的贵站的友链信息。
+
+更多详情，请参考讨论帖。
 
 我们会在一周内（正常情况下）添加友链。
 
