@@ -13,7 +13,10 @@ YFun 的左邻右舍。
 站点 Logo：https://cdn.jsdelivr.net/gh/MyBlog-GitHub/image-upload@main/uPic/1GsaSI.png
 ```
 
-### `Fork` 仓库
+### 方法一（推荐）
+
+
+#### `Fork` 仓库
 
 对仓库中的 `main.json` 文件进行修改，添加您的信息。
 
@@ -27,11 +30,20 @@ YFun 的左邻右舍。
 
 > 此四项缺一不可！在填写时请务必遵守 `JSON` 语法规范！
 
-### 发起 `Pull Request`
+#### 发起 `Pull Request`
 
 发起一个 `Pull Request` ，目标仓库是 `oCoke/Friends` 的 `master` 分支。
 
 提交完成后，我们会在一周内（正常情况下）添加友链并合并 `Pull Request`
+
+---
+
+### 方法二
+
+在讨论帖（ [#9](https://github.com/oCoke/Friends/discussions/9) ）中按照提示留下你的相关友链信息。
+
+我们会在一周内（正常情况下）添加友链。
+
 
 ### 友链
 
