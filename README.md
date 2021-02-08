@@ -9,10 +9,11 @@ YFun 的左邻右舍。
 
 ```
 站点名称：YFun's Blog
-站点 URL：https://www.yfun.top/
+站点 URL：https://blog.yfun.top/
 站点简介：探寻一切有趣的事物！
 站点 Logo：https://cdn.jsdelivr.net/gh/MyBlog-GitHub/image-upload@main/uPic/1GsaSI.png
 ```
+
 
 ### 方法一（推荐）
 
