@@ -1,6 +1,8 @@
-<h1 align="center">YFun's Friends</h1>
+# YFun's Friends
 
-<p align="center">YFun 的左邻右舍</p>
+> YFun 的左邻右舍
+
+> 由于博客没有集成部署，友链的合并还请等待，感谢！
 
 
 ## 交换友链
