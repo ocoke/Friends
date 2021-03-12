@@ -1,6 +1,23 @@
-# YFun's Friends
+# [YFun's Friends](https://blog.yfun.top/links/)
 
 > YFun 的左邻右舍
+
+## 基本要求
+
+- 网站的域名是很重要的，免费域名就不接受啦。
+
+- - 免费域名 **包括但不限于** 下述定义：
+- - - 由 Freenom 公司运营的免费域名后缀，如 `.ml`、`.tk`。
+- - - 由 Joshua Anderson 运营的 Afraid FreeDNS 提供的免费子域名。
+- - - 其他不包含在 Public Suffix List 中的 免费子域名 服务。
+
+- - 免费域名 不包括 下述定义：
+- - - 向 Freenom 公司付费购买的 `.ml`、`.tk` 等域名。
+- - - 由 Automattic 公司运营的 wordpress.com 在线博客服务。
+- - - 其他任何包含于 Public Suffix List 的免费子域名服务，如 `github.io`，`gitlab.io`，`now.sh` 等
+
+- 有实质性内容的网站，充斥着各种采集、洗稿的内容、几乎没有原创的网站不接受。
+
 
 
 ## 交换友链
