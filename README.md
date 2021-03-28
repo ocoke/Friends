@@ -26,27 +26,21 @@
 
 请先添加以下的链接（三选一）：
 
-```
-站点名称：YFun's Blog
-站点 URL：https://blog.yfun.top/
-站点简介：探寻一切有趣的事物！
-站点 Logo：https://cdn.jsdelivr.net/gh/MyBlog-GitHub/image-upload@main/uPic/1GsaSI.png
-```
-
-```
-站点名称：YFun's Note
-站点 URL：https://note.yfun.top/
-站点简介：我们生活在大地上，但我们的梦想超越天空。
-站点 Logo：https://note.yfun.top/images/favicon.png
-```
-
-```
-站点名称：YFun's Home
-站点 URL：https://yfun.top/
-站点简介：我很平凡，但我独一无二。
-站点 Logo：https://cdn.jsdelivr.net/gh/oCoke/cdn@master/avatar/yfun.min.png
-```
-
+- 站点名称：`YFun's Blog`
+- 站点链接：`https://blog.yfun.top`
+- 站点简介：`探寻一切有趣的事物`
+- 站点图标：
+    - ICO 图标
+        - 16x16: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/16x16.ico
+        - 32x32: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32z32.ico
+        - 64x64: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/64x64.ico
+    - PNG 图片
+        - 16x16: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/16x16.png
+        - 32x32: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png
+        - 64x64: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/64x64.png
+        - 200x200: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/200x200.png
+    - SVG 矢量图
+        - https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/favicon.svg
 
 ### `Fork` 仓库
 
