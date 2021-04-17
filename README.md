@@ -2,6 +2,7 @@
 
 > YFun 的左邻右舍
 
+目前准备撤下部分不合规友链，详见：[#17](https://github.com/oCoke/Friends/issues/17)
 ## 基本要求
 
 - 网站的域名是很重要的，免费域名就不接受啦。
