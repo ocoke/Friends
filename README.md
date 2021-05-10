@@ -23,9 +23,7 @@
 
 ## 交换友链
 
-### 在开始前，请先添加本站的友情链接！
-
-请先添加以下的链接（三选一）：
+### 添加本站友链
 
 - 站点名称：`YFun's Blog`
 - 站点链接：`https://blog.yfun.top`
@@ -63,6 +61,6 @@
 
 提交完成后，我们会在一周内（正常情况下）添加友链并合并 `Pull Request`。
 
-### 友链
+## 友链
 
 请查看：[https://blog.yfun.top/links/](https://blog.yfun.top/links/)
