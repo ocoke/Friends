@@ -1,14 +1,14 @@
 [
   {
     "title": "交换友链",
-    "intro": "友链还有空位！赶快 PR！",
+    "intro": "跟 YFun 交个朋友，互访博客。",
     "link":  "https://github.com/oCoke/Friends#readme",
-    "image": "https://cdn.jsdelivr.net/gh/MyBlog-GitHub/image-upload@main/uPic/1GsaSI.png"
+    "image": "https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png"
   },
   {
     "title": "站点监控",
     "intro": "站点状态监控",
-    "link":  "/status/",
+    "link":  "https://blog.yfun.top/status/",
     "image": "https://blog.yfun.top/status/favicon.ico"
   },
   {
@@ -25,19 +25,19 @@
   },
   {
     "title": "南玖",
-    "intro": "就是喜欢花里胡哨",
+    "intro": "就是喜欢花里胡哨。",
     "link": "https://ztongyang.cn",
     "image": "https://metu.ztongyang.cn/img/qq2251513837.jpg"
   },
   {
     "title": "贰猹の小窝",
-    "intro": "用这生命中的每一秒，给自己一个不后悔的未来",
+    "intro": "用这生命中的每一秒，给自己一个不后悔的未来。",
     "link": "https://noionion.top/",
     "image": "https://noionion-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/head.jpg"
   },
   {
     "title": "histcat blog",
-    "intro": "一只想让自己变得更好的咸鱼",
+    "intro": "一只想让自己变得更好的咸鱼。",
     "link": "https://histcat.vercel.app/",
     "image": "https://i.zerodream.net/7491eded26ea6ab673eae8459899a4ba.jpeg"
   }
