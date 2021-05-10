@@ -54,6 +54,7 @@
 
 
 > 此四项缺一不可！在填写时请务必遵守 `JSON` 语法规范！
+> 如果确实没有图片，可以使用 [32x32.png](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png)。
 
 ### 发起 `Pull Request`
 
