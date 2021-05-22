@@ -15,7 +15,9 @@
     - 免费域名 不包括 下述定义：
         - 向 Freenom 公司付费购买的 `.ml`、`.tk` 等域名。
         - 由 Automattic 公司运营的 wordpress.com 在线博客服务。
-        - 其他任何包含于 Public Suffix List 的免费子域名服务，如 `github.io`，`gitlab.io`，`now.sh` 等
+        - 其他任何包含于 Public Suffix List 的免费子域名服务，如 `github.io`，`gitlab.io`，`now.sh` 等。
+
+> 如果你不能确定域名是否存在于 Public Suffix List 中，可以 [点击此处](https://yfun.top/lab/public-suffix) 快速查询。
 
 - 有实质性内容的网站，充斥着各种采集、洗稿的内容、几乎没有原创的网站不接受。
 
