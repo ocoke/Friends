@@ -12,6 +12,12 @@
     "image": "https://blog.yfun.top/status/favicon.ico"
   },
   {
+    "title": "证书透明",
+    "intro": "YFun 的 SSL 证书透明度报告！",
+    "link":  "https://ssl.yfun.top/",
+    "image": "https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png"
+  },
+  {
     "title": "凡尘纪",
     "intro": "念念不忘，必有回响。",
     "link":  "https://hesifan.top/",
