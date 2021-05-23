@@ -40,5 +40,11 @@
     "intro": "一只想让自己变得更好的咸鱼。",
     "link": "https://histcat.vercel.app/",
     "image": "https://i.zerodream.net/7491eded26ea6ab673eae8459899a4ba.jpeg"
+  },
+  {
+    "title": "陈 YF 的博客",
+    "intro": "一个在互联网角落挣扎的小小博客，很小很小。",
+    "link": "https://blog.cyfan.top",
+    "image": "https://unpkg.zhimg.com/chenyfan-oss@1.0.0/pic/BLOGER.jpg"
   }
 ]
