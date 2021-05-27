@@ -53,7 +53,7 @@
 | `intro` | 站点简介 |
 | `link`  | 站点 URL（包括协议头） |
 | `image` | 站点 Logo 或头像 |
-| `domain` | 友链截图的域名 [See Here](#友链截图) |
+| `domain` | 友链截图的域名 [(See Here)](#友链截图) |
 
 > 此四项缺一不可！在填写时请务必遵守 `JSON` 语法规范！
 > 如果确实没有图片，可以使用 [32x32.png](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png)。
