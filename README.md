@@ -73,3 +73,5 @@
 ## 友链
 
 请查看：[https://blog.yfun.top/links/](https://blog.yfun.top/links/)
+
+友链截图：https://yfun.top/links/
