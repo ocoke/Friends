@@ -68,5 +68,12 @@
     "link": "https://akilar.top/",
     "image": "https://akilar.top/img/siteicon/favicon.png",
     "domain": "akilar.top"
+  },
+  {
+    "title": "留言丨Message",
+    "intro": "一款类聊天式留言版",
+    "link": "https://msg.xurl.ltd/",
+    "image": "https://msg.xurl.ltd/res/msg.png",
+    "domain": "msg.xurl.ltd",
   }
 ]
