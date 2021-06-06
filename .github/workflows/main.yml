@@ -22,7 +22,8 @@ jobs:
       run: |
         pip install requests
         python main.py
-        curl https://purge.jsdelivr.net/gh/oCoke/screenshot@gh-pages/*.*
+        curl https://purge.jsdelivr.net/gh/oCoke/Friends@master/*.*
+        curl https://purge.jsdelivr.net/gh/oCoke/Friends@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
