@@ -32,16 +32,15 @@
 - 站点简介：`探寻一切有趣的事物`
 - 站点图标：
     - ICO 图标
-        - 16x16: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/16x16.ico
-        - 32x32: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32z32.ico
-        - 64x64: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/64x64.ico
+        - [16x16](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/16x16.ico)
+        - [32x32](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32z32.ico)
+        - [64x64](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/64x64.ico)
     - PNG 图片
-        - 16x16: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/16x16.png
-        - 32x32: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png
-        - 64x64: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/64x64.png
-        - 200x200: https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/200x200.png
-    - SVG 矢量图
-        - https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/favicon.svg
+        - [16x16](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/16x16.png)
+        - [32x32](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/32x32.png)
+        - [64x64](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/64x64.png)
+        - [200x200](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/200x200.png)
+    - [SVG 矢量图](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/favicon.svg)
 
 ### `Fork` 仓库
 
