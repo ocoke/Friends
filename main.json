@@ -68,5 +68,12 @@
     "link": "https://blog.imlete.cn/",
     "image": "https://www.imlete.cn/img/avatar.png",
     "domain": "blog.imlete.cn"
+  },
+  {
+    "title": "QYstudio",
+    "intro": "不因何事去制作 只因兴趣而创造",
+    "link": "https://qystu.cc/",
+    "image": "https://cravatar.cn/avatar/e554da26e947151c678f1f2a8f78e72b",
+    "domain": "qystu.cc"
   }
 ]
