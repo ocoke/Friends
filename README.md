@@ -42,6 +42,11 @@
         - [200x200](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/200x200.png)
     - [SVG 矢量图](https://cdn.jsdelivr.net/gh/oCoke/cdn@master/favicons/favicon.svg)
 
+### Google Forms 申请
+
+[点击此处](https://docs.google.com/forms/d/1wyo30S-KhsWIGMTOerRTld-vSHoq93v_KRbux0JV_Yg) 填写表单。
+
+
 ### `Fork` 仓库
 
 对仓库中的 `main.json` 文件进行修改，添加您的信息。
