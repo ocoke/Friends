@@ -1,7 +1,7 @@
 name: Update Screenshot
 on: 
-  schedule:
-    - cron: '0 16 * * *'
+  # schedule:
+    # - cron: '0 16 * * *'
   push:
     branches: 
       - master
