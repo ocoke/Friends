@@ -1,4 +1,11 @@
+# CKY's Friends
+
+抱歉，友链申请暂时关闭。
+
+<!--
+
 # [YFun's Friends](https://blog.yfun.top/links/)
+
 
 > YFun 的左邻右舍
 
@@ -74,8 +81,12 @@
 
 提交完成后，我们会在一周内（正常情况下）添加友链并合并 `Pull Request`。
 
+
 ## 友链
 
 请查看：[https://blog.yfun.top/links/](https://blog.yfun.top/links/)
 
 友链截图：https://yfun.top/links/
+
+-->
+
